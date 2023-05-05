@@ -1,3 +1,4 @@
+![logo](https://github.com/hallowshaw/hallowshaw/blob/main/Banne.gif)
 <h1 align="center"> Hi 👋, I am Rhitam Chaudhury</h1>
 <h2 align="center">A passionate full-stack developer from India. I love programming and have interest in UI/UX designing.</h2>
 <h3 align="center">In my free time I do photography and make travel videos.</h3>
