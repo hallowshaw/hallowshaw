@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hallowshaw" alt="hallowshaw" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/rhitam-chaudhury-66b17b248/" target="blank"><img src="https://img.shields.io/linkedin/follow/ritam36466663?logo=twitter&style=for-the-badge" alt="rhitam-chaudhury" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ritam36466663" target="blank"><img src="https://img.shields.io/twitter/follow/ritam36466663?style=social" alt="ritam36466663" /></a> </p>
 
 - 🔭 I’m currently working on **MERN stack projects**
 
