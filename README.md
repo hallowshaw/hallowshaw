@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **MERN stack projects**
 
-- 🌱 I’m currently learning **MERN stack and Flutter**
+- 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **anything, I will enjoy trying to find an answer to it.**
 
