@@ -31,6 +31,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hallowshaw&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hallowshaw)  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
