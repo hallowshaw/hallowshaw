@@ -23,7 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hallowshaw&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover)
+![](https://github-profile-trophy.vercel.app/?username=hallowshaw&theme=dark_lover)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
