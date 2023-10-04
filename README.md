@@ -1,13 +1,16 @@
-![image](https://github.com/hallowshaw/hallowshaw/assets/90751158/588aad4a-9eac-4267-9a97-483fac5939ee)![logo](https://github.com/hallowshaw/hallowshaw/blob/main/Banne.gif)
+![image](https://github.com/hallowshaw/hallowshaw/assets/90751158/fa294a31-6721-43f5-8cfa-79e540174431)![logo](https://github.com/hallowshaw/hallowshaw/blob/main/Banne.gif)
 <h1 align="center"> Hi 👋, I am Rhitam Chaudhury</h1>
 <h2 align="center">A Full-Stack Developer from India with a passion for creating immersive digital experiences. My goal is to bridge the gap between design and functionality, delivering seamless user experiences..</h2>
 <h3 align="center">In my free time I do Photography and play Guitar.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hallowshaw&label=Profile%20views&color=0e75b6&style=flat" alt="hallowshaw" /> </p>
+
+
+
+
+
 
 
 # 💫 About Me:
