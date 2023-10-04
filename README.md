@@ -26,12 +26,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hallowshaw&theme=dark_lover)
 
+### 🔝 Github Profile Summary Card
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hallowshaw&theme=2077)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hallowshaw&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hallowshaw&theme=2077)
 
 
