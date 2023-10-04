@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
-<p align="left"> <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="hallowshaw" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hallowshaw&label=Profile%20views&color=0e75b6&style=flat" alt="hallowshaw" /> </p>
 
 
 
