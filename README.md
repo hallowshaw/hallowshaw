@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hallowshaw&label=Profile%20views&color=0e75b6&style=flat" alt="hallowshaw" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hallowshaw" alt="hallowshaw" /></a> </p>
-
 
 # 💫 About Me:
 🔭 I’m currently working on **MERN stack projects**<br>🌱 I’m currently learning **MERN stack**<br>💬 Ask me about anything, I will enjoy trying to find an answer to it.<br>📫 How to reach me **rhitam.rit54@gmail.com**<br>⚡ Fun Fact - I am lazy but smart
@@ -36,11 +34,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hallowshaw&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=hallowshaw&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
