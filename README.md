@@ -1,9 +1,9 @@
-![logo](https://github.com/hallowshaw/hallowshaw/blob/main/Banne.gif)
+![image](https://github.com/hallowshaw/hallowshaw/assets/90751158/588aad4a-9eac-4267-9a97-483fac5939ee)![logo](https://github.com/hallowshaw/hallowshaw/blob/main/Banne.gif)
 <h1 align="center"> Hi 👋, I am Rhitam Chaudhury</h1>
 <h2 align="center">A Full-Stack Developer from India with a passion for creating immersive digital experiences. My goal is to bridge the gap between design and functionality, delivering seamless user experiences..</h2>
 <h3 align="center">In my free time I do Photography and play Guitar.</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ffelipecandian&psig=AOvVaw2SWAUaQBoKsmkhpkMPvBTR&ust=1696517158546000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDEm4fR3IEDFQAAAAAdAAAAABBf)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hallowshaw&label=Profile%20views&color=0e75b6&style=flat" alt="hallowshaw" /> </p>
 
