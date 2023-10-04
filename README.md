@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hallowshaw&label=Profile%20views&color=0e75b6&style=flat" alt="hallowshaw" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hallowshaw" alt="hallowshaw" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ritam36466663" target="blank"><img src="https://img.shields.io/twitter/follow/ritam36466663?style=social" alt="ritam36466663" /></a> </p>
 
 
 
