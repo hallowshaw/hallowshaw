@@ -1,15 +1,15 @@
-![image](https://github.com/hallowshaw/hallowshaw/assets/90751158/fa294a31-6721-43f5-8cfa-79e540174431)![logo](https://github.com/hallowshaw/hallowshaw/blob/main/Banne.gif)
+![logo](https://github.com/hallowshaw/hallowshaw/blob/main/Banne.gif)
 <h1 align="center"> Hi 👋, I am Rhitam Chaudhury</h1>
 <h2 align="center">A Full-Stack Developer from India with a passion for creating immersive digital experiences. My goal is to bridge the gap between design and functionality, delivering seamless user experiences..</h2>
 <h3 align="center">In my free time I do Photography and play Guitar.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hallowshaw&label=Profile%20views&color=0e75b6&style=flat" alt="hallowshaw" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hallowshaw" alt="hallowshaw" /></a> </p>
 
-
-
+<p align="left"> <a href="https://twitter.com/ritam36466663" target="blank"><img src="https://img.shields.io/twitter/follow/ritam36466663?style=social" alt="ritam36466663" /></a> </p>
 
 
 
