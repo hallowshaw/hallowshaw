@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on **MERN stack projects**<br>🌱 I’m currently learning **MERN stack**<br>💬 Ask me about **anything, I will enjoy trying to find an answer to it.**<br>📫 How to reach me **rhitam.rit54@gmail.com**<br>⚡ Fun Fact - I am lazy but smart
+🔭 I’m currently working on **MERN stack projects**<br>🌱 I’m currently learning **MERN stack**<br>💬 Ask me about anything, I will enjoy trying to find an answer to it.<br>📫 How to reach me **rhitam.rit54@gmail.com**<br>⚡ Fun Fact - I am lazy but smart
 
 
 ## 🌐 Socials:
