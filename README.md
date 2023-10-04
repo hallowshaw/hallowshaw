@@ -9,6 +9,7 @@
 
 
 # 💫 About Me:
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=700&color=F76538&background=D180FF00&center=false&vCenter=false&width=435&lines=Rhitam+Chaudhury+here.;I+am+a+Mern+Stack+Developer;I+am+a+Passionate+Coder)<br>
 🔭 I’m currently working on **MERN stack projects**<br>🌱 I’m currently learning **MERN stack**<br>💬 Ask me about **anything, I will enjoy trying to find an answer to it.**<br>📫 How to reach me **rhitam.rit54@gmail.com**<br>⚡ Fun Fact - I am lazy but smart
 
 
