@@ -7,6 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hallowshaw&label=Profile%20views&color=0e75b6&style=flat" alt="hallowshaw" /> </p>
 
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C336%20hrs%2030%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
+
 
 # 💫 About Me:
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&size=35&pause=700&color=6447FF&background=D180FF00&center=false&vCenter=false&width=435&lines=Mern+Stack+Developer;Graphic+Designer;Passionate+Java+Coder)<br>
