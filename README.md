@@ -1,7 +1,15 @@
 ![logo](https://github.com/hallowshaw/hallowshaw/blob/main/Banne.gif)
 <h1 align="center"> Hi 👋, I am Rhitam Chaudhury</h1>
 <h2 align="center">A Full-Stack Developer from India with a passion for creating immersive digital experiences. My goal is to bridge the gap between design and functionality, delivering seamless user experiences..</h2>
-<h3 align="center">In my free time I do Photography and play Guitar.</h3>
+<h3 align="center">In my free time I do <b>Photography</b>, listen to <b>Music</b> and play <b>Guitar</b>.</h3>
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gwlbl9jr7dcbuoejvvgy4ne4y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gwlbl9jr7dcbuoejvvgy4ne4y&redirect=true)
+  
+</div>
+
+
 
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
