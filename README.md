@@ -3,11 +3,6 @@
 <h2 align="center">A Full-Stack Developer from India with a passion for creating immersive digital experiences. My goal is to bridge the gap between design and functionality, delivering seamless user experiences..</h2>
 <h3 align="center">In my free time I do <b>Photography</b>, listen to <b>Music</b> and play <b>Guitar</b>.</h3>
 
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gwlbl9jr7dcbuoejvvgy4ne4y&cover_image=true&theme=novatorem&show_offline=false&background_color=c12525&interchange=false&bar_color=2770dd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gwlbl9jr7dcbuoejvvgy4ne4y&redirect=true)
-  
-</div>
 
 
 
@@ -63,6 +58,13 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gwlbl9jr7dcbuoejvvgy4ne4y&cover_image=true&theme=novatorem&show_offline=false&background_color=c12525&interchange=false&bar_color=2770dd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gwlbl9jr7dcbuoejvvgy4ne4y&redirect=true)
+  
+</div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
