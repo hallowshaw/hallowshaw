@@ -39,8 +39,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hallowshaw&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 
-<a href="https://github.com/hallowshaw/To-Do-List">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hallowshaw&repo=To-Do-List&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
+<a href="https://github.com/hallowshaw/Market-Basket-Analysis-using-Apriori-Algorithm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hallowshaw&repo=Market-Basket-Analysis-using-Apriori-Algorithm&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 
 
