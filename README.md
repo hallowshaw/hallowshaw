@@ -18,6 +18,9 @@
 
 <div align="center">
 
+[![An image of @hallowshaw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hallowshaw)](https://holopin.io/@hallowshaw)
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hallowshaw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/illusional_destiny) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rhitam-chaudhury-66b17b248) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ritam36466663) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@VisualsInANutshell) 
 
@@ -68,7 +71,5 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 </div>
-
-[![An image of @hallowshaw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hallowshaw)](https://holopin.io/@hallowshaw)
 
 
