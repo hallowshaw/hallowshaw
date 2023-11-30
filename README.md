@@ -69,6 +69,6 @@
 
 </div>
 
-
+[![An image of @hallowshaw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hallowshaw)](https://holopin.io/@hallowshaw)
 
 
