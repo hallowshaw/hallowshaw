@@ -65,16 +65,19 @@
 ### 🔝 Github Profile Summary Card
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hallowshaw&theme=2077)
 
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/hallowshaw?theme=dark&font=Antic&ext=heatmap)
+  
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-<div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gwlbl9jr7dcbuoejvvgy4ne4y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-  
-</div>
+
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
