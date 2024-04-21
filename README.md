@@ -1,7 +1,6 @@
 <h1 align="center"> Hi, I am Rhitam Chaudhury</h1>
 <h2 align="center">A Full-Stack Developer from India with a passion for creating immersive digital experiences. My goal is to bridge the gap between design and functionality, delivering seamless user experiences.</h2>
 <h3 align="center">In my free time I do <b>Photography</b>, listen to <b>Music</b> and play <b>Guitar</b>.</h3>
-<h3 align="center">In my free time I do <b>Photography</b>, listen to <b>Music</b> and play <b>Guitar</b>.</h3>
 
 
 
