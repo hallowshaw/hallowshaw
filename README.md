@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&size=35&pause=700&color=6447FF&background=D180FF00&center=false&vCenter=false&width=435&lines=Mern+Stack+Developer;Graphic+Designer;Passionate+Java+Coder)<br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&size=35&pause=700&color=6447FF&background=D180FF00&center=false&vCenter=false&width=435&lines=MERN+Stack+Developer;Graphic+Designer;Passionate+Java+Coder)<br>
 🔭 I’m currently working on **MERN stack projects**<br>🌱 I’m currently learning **MERN stack**<br>💬 Ask me about **anything, I will enjoy trying to find an answer to it.**<br>📫 How to reach me **rhitam.rit54@gmail.com**<br>⚡ Fun Fact - I am lazy but smart
 
 <div align="center">
