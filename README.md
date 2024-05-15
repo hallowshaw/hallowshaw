@@ -2,7 +2,6 @@
 <h2 align="center">A Full-Stack Developer from India with a passion for creating immersive digital experiences. My goal is to bridge the gap between design and functionality, delivering seamless user experiences.</h2>
 <h3 align="center">In my free time I do <b>Photography</b>, listen to <b>Music</b> and play <b>Guitar</b>.</h3>
 
- 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hallowshaw&label=Profile%20views&color=0e75b6&style=flat" alt="hallowshaw" /> </p>
