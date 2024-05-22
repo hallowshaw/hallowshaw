@@ -8,7 +8,6 @@
 <p align="left"> <img src="http://img.shields.io/badge/Code%20Time-1000+hrs-blue" alt="hallowshaw" /> </p>
 <p align="left"> <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50,000+%20%20lines%20of%20code-blue" alt="hallowshaw" /> </p>
 
-
 # 💫 About Me:
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&size=35&pause=700&color=6447FF&background=D180FF00&center=false&vCenter=false&width=435&lines=MERN+Stack+Developer;Graphic+Designer;Passionate+Java+Coder)<br>
 🔭 I’m currently working on **MERN stack projects**<br>🌱 I’m currently learning **MERN stack**<br>💬 Ask me about **anything, I will enjoy trying to find an answer to it.**<br>📫 How to reach me **rhitam.rit54@gmail.com**<br>⚡ Fun Fact - I am lazy but smart
