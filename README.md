@@ -4,6 +4,8 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hallowshaw&label=Profile%20views&color=0e75b6&style=flat" alt="hallowshaw" /> </p>
 <p align="left"> <img src="http://img.shields.io/badge/Code%20Time-1000+hrs-blue" alt="hallowshaw" /> </p>
 <p align="left"> <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50,000+%20%20lines%20of%20code-blue" alt="hallowshaw" /> </p>
