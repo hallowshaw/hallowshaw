@@ -165,10 +165,6 @@
 <h1 align="center">⭐ LEETCODE STATS ⭐</h1>
 <div align="center">
 
-<div>
-  <img align="right" width="40%" src="https://media.tenor.com/9784XmqJf9gAAAAi/ricey-rice.gif">
-</div>
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hallowshaw?theme=dark&font=Antic&ext=heatmap)
   
 </div>
