@@ -34,7 +34,7 @@
 
 
 <!--Languages and Tools Section-->       
-<h1 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Nᴇᴡs</h1> 
+<h1 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</h1> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
@@ -45,10 +45,10 @@
 <ul align="left">
   <li>Deepening my knowledge in Machine Learning and AI.</li>
   <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Improving my skills in problem solving</li>
 </ul>
 
-<h3 align="left">Latest News</h3>
+<h3 align="left">Latest Achievements</h3>
 <ul align="left">
   <li><a href="https://www.linkedin.com/posts/rhitam-chaudhury-66b17b248_amazonmlsummerschool-machinelearning-ai-activity-7213810449060888577-XO7g?utm_source=share&utm_medium=member_desktop">Member of Amazon ML Summer School '24</a></li>
   <li><a href="https://www.linkedin.com/posts/rhitam-chaudhury-66b17b248_sih2023-smartindiahackathon2023-aicte-activity-7146450274608472065-wtw2?utm_source=share&utm_medium=member_desktop">Smart India Hackathon 2023 Finalist</a></li>
