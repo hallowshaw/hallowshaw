@@ -1,22 +1,40 @@
-<h1 align="center"> Hi, I am Rhitam Chaudhury</h1>
-<h2 align="center">A Full-Stack Developer from India with a passion for creating immersive digital experiences. My goal is to bridge the gap between design and functionality, delivering seamless user experiences.</h2>
-<h3 align="center">In my free time I do <b>Photography</b>, listen to <b>Music</b> and play <b>Guitar</b>.</h3>
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M RHITAM 
+*Tech Aficionado (Developer / Programmer)*
+<br /> 
+<div>
+  <img align="right" width="35%" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
+</div>
 
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a deep passion for React.js, Node.js, REST APIs, Java, and Python.</p>
 
+- ✨ Lifelong learner :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💁‍♂️ Feel free to reach out to me at rhitam.rit54@gmail.com
+- 💻 Visit my [Portfolio](https://portfolio-rhitam.netlify.app/) for more details about my work and projects.
+- ⚡ Fun Fact - I am lazy but smart
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
+<!--End Intro-->
 
+<!--Profile Count Badge-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hallowshaw&label=Profile%20views&color=0e75b6&style=flat" alt="hallowshaw" /> </p>
 <p align="left"> <img src="http://img.shields.io/badge/Code%20Time-1000+hrs-blue" alt="hallowshaw" /> </p>
 <p align="left"> <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50,000+%20%20lines%20of%20code-blue" alt="hallowshaw" /> </p>
 
-# 💫 About Me:
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&size=35&pause=700&color=6447FF&background=D180FF00&center=false&vCenter=false&width=435&lines=MERN+Stack+Developer;Graphic+Designer;Passionate+Java+Coder)<br>
-🔭 I’m currently working on **MERN stack projects**<br>🌱 I’m currently learning **MERN stack**<br>💬 Ask me about **anything, I will enjoy trying to find an answer to it.**<br>📫 How to reach me **rhitam.rit54@gmail.com**<br>⚡ Fun Fact - I am lazy but smart
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&size=35&pause=700&color=6447FF&background=D180FF00&center=false&vCenter=false&width=435&lines=MERN+Stack+Developer;Machine+Learning+Enthusiast;Passionate+Java+Coder;Graphic+Designer)<br>
 
 <div align="center">
 
 [![An image of @hallowshaw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hallowshaw)](https://holopin.io/@hallowshaw)
+
+
+
+
+
+
+
 
 
 ## 🌐 Socials:
