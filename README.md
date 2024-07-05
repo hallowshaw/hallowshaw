@@ -104,6 +104,7 @@
 </p>
 <br />
 
+<!--
 <div>
   <img align="left" width="10%" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 </div>
@@ -111,7 +112,7 @@
 <div>
   <img align="right" width="10%" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
 </div>
-
+-->
 
 <!--Github stats Table--> 
 <h1 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h1>
