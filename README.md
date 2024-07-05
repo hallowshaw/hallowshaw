@@ -175,7 +175,7 @@
 
 
 
-<h1 align="center">⭐ LEETCODE STATS ⭐</h1>
+<h1 align="center">⭐ LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs ⭐</h1>
 <div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hallowshaw?theme=dark&font=Antic&ext=heatmap)
