@@ -14,7 +14,7 @@
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a deep passion for React.js, Node.js, REST APIs, Java, and Python.</p>
 
 - ✨ Lifelong learner :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 Currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Feel free to reach out to me at rhitam.rit54@gmail.com
 - 💻 Visit my [Portfolio](https://portfolio-rhitam.netlify.app/) for more details about my work and projects.
 - ⚡ Fun Fact - I am lazy but smart
