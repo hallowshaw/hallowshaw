@@ -2,9 +2,9 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rhitam+Chaudhury;I'm+21+and+from+India;)](https://git.io/typing-svg)
+
 <!--Header Name-->
-<!--# HEY, I'M RHITAM <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> -->
+# HEY, I'M RHITAM <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 *Tech Aficionado (Developer / Programmer)*
 <br /> 
 <div>
