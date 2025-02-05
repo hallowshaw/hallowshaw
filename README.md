@@ -148,8 +148,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/hallowshaw/SkillSetSail">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=hallowshaw&repo=SkillSetSail&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Lung-Cancer-Prediction-using-CNN-and-Transfer-Learning" />
+        <a href="https://github.com/hallowshaw/Vox-Debate">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=hallowshaw&repo=Vox-Debate&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="VoxDebate - AI Debate Platform" />
         </a>
       </p>
     </td>
